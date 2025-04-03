@@ -1,0 +1,16 @@
+columns = {
+    '기간': 'GIGAN',
+    '자치구': 'JACHIGU',
+    '계': 'GYE_1',
+    '계.1': 'GYE_2',
+    '계.2': 'GYE_3',
+    '남자': 'NAMJA_1',
+    '남자.1': 'NAMJA_2',
+    '남자.2': 'NAMJA_3',
+    '여자': 'YEOJA_1',
+    '여자.1': 'YEOJA_2',
+    '여자.2': 'YEOJA_3',
+    '세대': 'SEDAE',
+    '세대당인구': 'SEDAEDANGINGU',
+    '65세이상고령자': 'N_65SEISANGGORYEONGJA'
+}
